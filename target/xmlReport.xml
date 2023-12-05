@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="13.239" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Login Functionality" name="To test the Login Functionality of DemoWeb page" time="12.842">
+<system-out><![CDATA[
+Given I am on the DemoWebShop Login Page....................................passed
+When I click on Login Button................................................passed
+When I type Username........................................................passed
+When I type Password........................................................passed
+And I click Login Button....................................................passed
+And I click on Books........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
